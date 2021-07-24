@@ -3,9 +3,9 @@ Solution for Airveda Assignment
 
 To run this project - 
 1. Install Python 3.6 and above
-2. Install Django - `pip install django'
+2. Install Django - `pip install django`
 3. Install Django Rest Framework - `pip install djangorestframework`
-4. Then locate to mysite folder on your command prompt and `python manage.py runserver`
+4. Then locate to mainproject folder on your command prompt and `python manage.py runserver`
 
 <br>
 <br>
